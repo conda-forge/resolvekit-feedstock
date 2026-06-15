@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   python_min: "3.12"
-  version: "0.1.11"
+  version: "0.1.12"
 
 package:
   name: resolvekit
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/r/resolvekit/resolvekit-${{ version }}.tar.gz
-  sha256: c596b7eed53e5d846c761f66565925fc37579975c7e59cbbfdf8ad031ce9cc91
+  sha256: 70c2ced98bc3a07c577dfeddc72aaac7009b97c24636f6a574469a78230ec061
 
 build:
   number: 0
